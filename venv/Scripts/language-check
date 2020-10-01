@@ -1,0 +1,6 @@
+#!C:\python works\Spell checker\venv\Scripts\python.exe
+
+import sys
+
+from language_check import main
+sys.exit(main.main())
